@@ -26,7 +26,7 @@
 
 <tr>
     <td>at</td>
-    <td>agenda tarefas a serem executadas pelo sistema.</td>
+    <td>Agenda tarefas a serem executadas pelo sistema.</td>
 </tr>
 
 <tr>
